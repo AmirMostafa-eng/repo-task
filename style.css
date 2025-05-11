@@ -20,3 +20,6 @@ form input{
   outline: none;
   border: 1px solid;
 }
+form input[type="color"]{
+  width: 50px;
+}
