@@ -11,4 +11,12 @@ form > div {
 }
 form label{
   display: inline-block;
+  color: white;
+}
+form input{
+  width: 200px;
+  padding: 4px 8px ;
+  border-radius: 5px;
+  outline: none;
+  border: 1px solid;
 }
