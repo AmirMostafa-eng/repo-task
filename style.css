@@ -7,7 +7,7 @@ form{
   height: 90vh;
 }
 form > div {
-  margin: 10px;
+  margin: 20px 0;
 }
 form label{
   display: inline-block;
