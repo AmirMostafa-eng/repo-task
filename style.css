@@ -23,3 +23,15 @@ form input{
 form input[type="color"]{
   width: 50px;
 }
+
+.subjects p{
+  text-align: left;
+  margin-left: 10px;
+  margin-bottom: 0px;
+}
+.subjects ul{
+  margin-top: 0;
+  list-style: none;
+  display: flex;
+  gap: 10px;
+}
