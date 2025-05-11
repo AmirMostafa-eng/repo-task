@@ -6,3 +6,9 @@ form{
   text-align: center;
   height: 90vh;
 }
+form > div {
+  margin: 10px;
+}
+form label{
+  display: inline-block;
+}
